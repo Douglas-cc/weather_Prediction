@@ -1,0 +1,12 @@
+data - 'Data',
+hora - 'Hora (UTC)',
+temperatura - 'Temp. [Hora] (C)', 
+umidade - 'Umi. (%)',
+pressao - 'Pressao (hPa)',
+vel_vento - 'Vel. Vento (m/s)', 
+direcao_vento - 'Dir. Vento (m/s)', 
+nebulosidade - 'Nebulosidade (Decimos)',
+insolacao - 'Insolacao (h)',
+temp_max - 'Temp. Max. [Diaria] (h)',
+temp_min -'Temp. Min. [Diaria] (h)',
+chuva - 'Chuva [Diaria] (mm)'
