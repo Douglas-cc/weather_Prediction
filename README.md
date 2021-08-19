@@ -1,9 +1,9 @@
-# Predição de Indice Pluviometrico de Macapá
-Predição de índices pluviométricos da cidade de Macapá
+# Predição de índice Pluviometrico de Macapá
+Predição de índices pluviométricos da cidade de Macapá é um dos modelos que usamos para um projeto um pouco maior e foi uma das abordagem usadas e que resolvi 
+compartilhar.
 
 # Abordagem utilizada 
-Para prever o indice pluviometrico partimos usando abordagem de series temporais e modelos arvores e gradient boosting
-e usamos algumas metricas para avaliar o desempenho do modelo, como o: Score, RMSE e K-fold
+Para prever o indice pluviometrico partimos usando abordagem de series temporais, modelos arvores e gradient boosting. Para isso usamos algumas métricas para avaliar o desempenho do modelo, como o: Score, RMSE e K-fold
 
 # Modelos usados
 - Random Forest
@@ -19,5 +19,5 @@ e usamos algumas metricas para avaliar o desempenho do modelo, como o: Score, RM
 - Lightgbm
 
 # Fontes de Dados
-Instituto Nacional de Metereologia https://portal.inmet.gov.br/
-no intervalo de 2000 a 2020
+Os dados equivalem ao intervalo de 2000 a 2020 e estão disponiveis no portal do INMET: https://portal.inmet.gov.br/
+
