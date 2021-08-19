@@ -1,4 +1,4 @@
-# weather_Prediction
+# Predição de Indice Pluviometrico de Macapá
 Predição de índices pluviométricos da cidade de Macapá
 
 # Abordagem utilizada 
@@ -19,4 +19,5 @@ e usamos algumas metricas para avaliar o desempenho do modelo, como o: Score, RM
 - Lightgbm
 
 # Fontes de Dados
-Instituto Nacional de Metereologia: https://portal.inmet.gov.br/
+Instituto Nacional de Metereologia https://portal.inmet.gov.br/
+no intervalo de 2000 a 2020
