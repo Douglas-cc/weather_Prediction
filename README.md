@@ -21,3 +21,16 @@ Para prever o indice pluviometrico partimos usando abordagem de series temporais
 # Fontes de Dados
 Os dados equivalem ao intervalo de 2000 a 2020 e estão disponiveis no portal do INMET: https://portal.inmet.gov.br/
 
+# Descrição das features do dataset
+data - 'Data',
+hora - 'Hora (UTC)',
+temperatura - 'Temp. [Hora] (C)', 
+umidade - 'Umi. (%)',
+pressao - 'Pressao (hPa)',
+vel_vento - 'Vel. Vento (m/s)', 
+direcao_vento - 'Dir. Vento (m/s)', 
+nebulosidade - 'Nebulosidade (Decimos)',
+insolacao - 'Insolacao (h)',
+temp_max - 'Temp. Max. [Diaria] (h)',
+temp_min -'Temp. Min. [Diaria] (h)',
+precipitação - 'Chuva [Diaria] (mm)'
