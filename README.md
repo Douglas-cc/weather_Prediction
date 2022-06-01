@@ -6,18 +6,13 @@ compartilhar.
 Para prever o indice pluviometrico partimos usando abordagem de series temporais, modelos arvores e gradient boosting. Para isso usamos algumas métricas para avaliar o desempenho do modelo, como o: Score, RMSE e K-fold
 
 # Modelos usados
-- Random Forest
+- Regressão Logistica
+- MLP
+- Arvore de Decisão
+- CatBoost
 - XGBoost
 - LightGBM
-
-# Tecnologias
-- Python 
-- pandas e numpy
-- matplotlib e seaborn
-- Xgboost 
-- Sklearn 
-- Lightgbm
-
+- 
 # Fontes de Dados
 Os dados equivalem ao intervalo de 2000 a 2020 e estão disponiveis no portal do INMET: https://portal.inmet.gov.br/
 
