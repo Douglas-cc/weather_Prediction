@@ -1,9 +1,8 @@
-# Predição de índice Pluviometrico de Macapá
-Predição de índices pluviométricos da cidade de Macapá é um dos modelos que usamos para um projeto um pouco maior e foi uma das abordagem usadas e que resolvi 
-compartilhar.
+# Classificador Pluviometrico de Macapá
+Objetivo do projeto é disponibilizar classificadores que possibilitam prever em cada 6h se não havera chuva ou se tiver dize se a chuva sera fraca, moderada, forte ou violenta.
 
 # Abordagem utilizada 
-Para prever o indice pluviometrico partimos usando abordagem de series temporais, modelos arvores e gradient boosting. Para isso usamos algumas métricas para avaliar o desempenho do modelo, como o: Score, RMSE e K-fold
+As etapas do projeto passaram desde de analise exploratoria, testes estatisticos de normalidade, limpeza de dados, feature engineer e treinamento do modelo o para avaliar usamos a validação cruzada com k-fold para olhar de perto as metricas de classficação
 
 # Modelos usados
 - Regressão Logistica
@@ -12,7 +11,7 @@ Para prever o indice pluviometrico partimos usando abordagem de series temporais
 - CatBoost
 - XGBoost
 - LightGBM
-- 
+
 # Fontes de Dados
 Os dados equivalem ao intervalo de 2000 a 2020 e estão disponiveis no portal do INMET: https://portal.inmet.gov.br/
 
