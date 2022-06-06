@@ -1,4 +1,4 @@
-# Classificador Pluviometrico de Macapá
+# Classificador de nivel de precipitação em Macapá
 Objetivo do projeto é disponibilizar classificadores que possibilitam prever em cada 6h se não havera chuva ou se tiver dize se a chuva sera fraca, moderada, forte ou violenta.
 
 # Abordagem utilizada 
